@@ -49,20 +49,15 @@ $ pip install -r requirements.txt
 $ python3 insta_splunk.py
 ```
 
+<br/>
 
-<p align="center"> Project </p>
+<p> Project </p>
 
 # 
 
-<div align="center"> Name&nbsp;&nbsp;&nbsp;&nbsp;Creation date&ensp;Author</div>
+<div>Name &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Creation date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Author&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Programming language</div>
 
-|         | Name           | Creation date   | Author  | Programming language |
-| ------- | -------------- | --------------- | ------- | -------------------- |
-| Project | insta_splunk   | August 18, 2022 | Camar H.| Python               |
+#
 
+<div>insta_splunk&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;August 18, 2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Camar H.&nbsp;&nbsp;&nbsp;&nbsp; Python</div>
 
-+ Line 1
-
-    line 
-> line          
->>>>>>>>> line 3
