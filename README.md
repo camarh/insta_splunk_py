@@ -54,7 +54,7 @@ $ python3 insta_splunk.py
 
 # 
 
-<div align="center"> Name   Creation date    Author</div>
+<div align="center"> Name&nbsp;&nbsp;&nbsp;&nbsp;Creation date&ensp;Author</div>
 
 |         | Name           | Creation date   | Author  | Programming language |
 | ------- | -------------- | --------------- | ------- | -------------------- |
