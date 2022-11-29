@@ -51,7 +51,7 @@ $ python3 insta_splunk.py
 
 <br/>
 
-<p> Project </p>
+### Project Info
 
 # 
 
@@ -61,3 +61,13 @@ $ python3 insta_splunk.py
 
 <div>insta_splunk&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;August 18, 2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Camar H.&nbsp;&nbsp;&nbsp;&nbsp; Python</div>
 
+<br/>
+
+### Contact
+
+- Email - &nbsp;&nbsp;&nbsp;&nbsp; camar.houssein@outlook.com
+- Linkedin - [https://www.linkedin.com/in/camarh/](https://www.linkedin.com/in/camarh/)
+
+# 
+
+© 2022 Camar H.
