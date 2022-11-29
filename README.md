@@ -54,15 +54,15 @@ $ python3 insta_splunk.py
 
 # 
 
-<div align="center"> Name&nbsp;Creation date&ensp;Author</div>
+<div align="center"> Name   Creation date    Author</div>
 
 |         | Name           | Creation date   | Author  | Programming language |
 | ------- | -------------- | --------------- | ------- | -------------------- |
 | Project | insta_splunk   | August 18, 2022 | Camar H.| Python               |
 
 
-Line 1
++ Line 1
 
-    line
-> line 2 
->> line 3
+    line 
+> line          
+>>>>>>>>> line 3
