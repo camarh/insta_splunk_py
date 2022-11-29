@@ -1,4 +1,4 @@
-# <p style="text-align: center;"> <span style="color:orange"> Welcome to insta_splunk </span>  </p>
+## <p style="text-align: center;"> <span style="color:orange"> Welcome to insta_splunk </span>  </p>
 
 # <span style="color:orange"> Welcome to insta_splunk </span>
 
@@ -9,7 +9,7 @@
 
 ![Splunk_logo](img/Splunk_logo.jpg)
 
- ##### <p style="text-align: center;" color="red"> This program automates the installation of Splunk Enterprise and is developed for GNU/Linux distribution platforms compiled from RHEL such as CentOS Stream, Fedora, Oracle Linux, etc. The code was validated with the Community Edition of Splunk Enterprise on a CentOS Stream 9 box. In addition to Splunk downloading and installing, it also handles some miscellaneous underlying configurations such as file/directory rights, boot-start, firewall ports management, sweeping when exiting, etc. </p>
+<p style="text-align: center;" color="red"> This program automates the installation of Splunk Enterprise and is developed for GNU/Linux distribution platforms compiled from RHEL such as CentOS Stream, Fedora, Oracle Linux, etc. The code was validated with the Community Edition of Splunk Enterprise on a CentOS Stream 9 box. In addition to Splunk downloading and installing, it also handles some miscellaneous underlying configurations such as file/directory rights, boot-start, firewall ports management, sweeping when exiting, etc. </p>
 ---
 
 
