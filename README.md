@@ -1,13 +1,6 @@
-## <p align="center"> Welcome to insta_splunk </p>
-
-
-<h1 align="center">Material Bread</h1>
-
+<h1 align="center"> Welcome to insta_splunk </h1>
 
 ---
-
-
-
 
 ![Splunk_logo](img/Splunk_logo.jpg)
 
