@@ -10,7 +10,6 @@
 <br/>
 
 ### Pre-requisites
-
 #
 
 > Clone the repo with the following from a terminal :
@@ -26,7 +25,6 @@ $ git clone https://github.com/camarh/insta_splunk
 <br/>
 
 ### Required packages
-
 #
 
 * pip
@@ -43,7 +41,6 @@ $ pip install -r requirements.txt
 <br/>
 
 ### Computation guide
-
 #
 
 > From a terminal, run the following command :
