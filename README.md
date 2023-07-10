@@ -15,7 +15,7 @@
 > Clone the repo with the following from a terminal :
 
 ```Bash
-$ git clone https://github.com/camarh/insta_splunk
+git clone https://github.com/camarh/insta_splunk_py
 ```
 
 > Make sure :
@@ -32,7 +32,7 @@ $ git clone https://github.com/camarh/insta_splunk
 > Run the following command to install pip :
 
 ```Bash
-$ sudo dnf -y install pip
+sudo dnf -y install pip
 ```
 
 * bs4
@@ -41,7 +41,7 @@ $ sudo dnf -y install pip
 > Run the following command to install those interesting packages :
 
 ```Bash
-$ sudo pip install -r requirements.txt
+sudo pip install -r requirements.txt
 ```
 
 <br/>
@@ -52,7 +52,7 @@ $ sudo pip install -r requirements.txt
 > From a terminal, run the following command :
 
 ```Bash
-$ sudo python3 insta_splunk.py
+sudo python3 insta_splunk.py
 ```
 
 <br/>
