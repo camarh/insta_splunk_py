@@ -1,6 +1,6 @@
 <h1 align="center"> Welcome to insta_splunk </h1>
 
-![Splunk_logo](img/Splunk_logo.jpg)
+![Splunk_logo](img/illustration.jpg)
 
 <p align="justify"> This program automates the installation of Splunk Enterprise and is developed for GNU/Linux distribution platforms compiled from RHEL such as CentOS Stream, Fedora, Oracle Linux, etc. The code was validated with the Community Edition of Splunk Enterprise on a CentOS Stream 9 box. In addition to Splunk downloading and installing, it also handles some miscellaneous underlying configurations such as file/directory rights, boot-start, firewall ports management, sweeping when exiting, etc. </p>
 
@@ -59,7 +59,7 @@ $ sudo python3 insta_splunk.py
 
 ### Project Info
 
-# 
+#
 
 <div>Name &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Creation date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Author&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Programming language</div>
 
@@ -74,6 +74,6 @@ $ sudo python3 insta_splunk.py
 - Email - &nbsp;&nbsp;&nbsp;&nbsp; camar.houssein@outlook.com
 - Linkedin - [https://www.linkedin.com/in/camarh/](https://www.linkedin.com/in/camarh/)
 
-# 
+#
 
 © 2022 Camar H.
